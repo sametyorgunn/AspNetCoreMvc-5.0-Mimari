@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zZYoN79Kgqx06ENFsg8W1OVDznTdovmN56ODyEVcIISlqSvdqhTnGgbkAvYcKGE19ly37riUzVGVsymFtsvMoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samet\\source\\repos\\proje\\EntityLayer\\EntityLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samet\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Samet\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
